@@ -41,19 +41,4 @@
 
 - Windows 10/11
 - Python 3.8+
-- PyQt6 6.5.0
-
-## 安装和运行
-
-### 方法1：一键运行（推荐）
-1. 确保已安装Python 3.8+
-2. 双击 `run.bat`
-3. 程序会自动检查并安装依赖
-
-### 方法2：手动运行
-```bash
-# 安装依赖
-pip install -r requirements.txt
-
-# 运行程序
-python ipam_main.py
+- PyQt6 6.10.1
